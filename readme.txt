@@ -1,9 +1,9 @@
-=== YITH WooCommerce Order Tracking ===
+=== WooCommerce Shipment Tracking ===
 
-Contributors: yithemes
-Tags: woocommerce, order tracking, order track, order trace, delivery, carriers, shipping, ship orders, e-commerce, send product, product shipping, delivery notes, track carriers, track email, delivery note, order shipping, order, orders, shop, e commerce, ecommerce
+Contributors: woocommerceplugin
+Tags: woocommerce, order tracking, order track, order trace, delivery, carriers, shipping, ship orders, e-commerce, send product, product shipping, delivery notes, track carriers, track email, delivery note, order shipping, order, orders, shipment tracking, shipment, e-commerce, ecommerce
 Requires at least: 4.0
-Tested up to: 4.1.0
+Tested up to: 4.1.1
 Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html 
@@ -12,11 +12,10 @@ Add easy managing order shipping information to your shop and lets your customer
 
 == Description ==
 
-YITH Woocommerce Order Tracking is a WordPress plugin that allows you to manage easily shipping information concerning your order and that lets your customers be notified about their order shipping.
+WooCommerce Shipment Tracking is a WordPress plugin that allows you to manage easily shipping information concerning your order and that lets your customers be notified about their order shipping.
 
 Discover all the features of the plugin and install it in your theme: the result will be extremely satisfying.
 
-Please, read the the **[official plugin documentation](http://yithemes.com/docs-plugins/yith-woocommerce-order-tracking)** to know all plugin features.
 
 = Installation =
 
@@ -24,13 +23,13 @@ Important: before of all, you have to download and activate WooCommerce plugin, 
 
 = Configuration =
 
-YITH WooCommerce Order Tracking will add a new tab called "Order Tracking" inside the YIT Plugins menu item. There you are able to configure all plugin settings.
+WooCommerce Shipment Tracking will add a new tab called "Order Tracking". There you are able to configure all plugin settings.
 
 == Installation ==
 
 1. Unzip the downloaded zip file.
 2. Upload the plugin folder into the `wp-content/plugins/` directory of your WordPress site.
-3. Activate `YITH WooCommerce Order Tracking` from Plugins page.
+3. Activate `WooCommerce Shipment Tracking` from Plugins page.
 
 == Screenshots ==
 
@@ -66,7 +65,7 @@ You can set the text to add to orders by means of the specific plugin option. Yo
 
 == Suggestions ==
 
-If you have suggestions about how to improve YITH WooCommerce Order Tracking, you can [write us](mailto:plugins@yithemes.com "Your Inspiration Themes") so we can bundle them into YITH WooCommerce Order Tracking.
+If you have suggestions about how to improve WooCommerce Shipment Tracking, you can [write us](mailto:pluginwoocommerce@gmail.com "Your Inspiration Themes") so we can bundle them into WooCommerce Shipment Tracking.
 
 == Translators ==
 
@@ -74,7 +73,7 @@ If you have suggestions about how to improve YITH WooCommerce Order Tracking, yo
 * English
 
 If you have created your own language pack, or have an update for an existing one, you can send [gettext PO and MO file](http://codex.wordpress.org/Translating_WordPress "Translating WordPress")
-[use](http://yithemes.com/contact/ "Your Inspiration Themes") so we can bundle it into YITH WooCommerce Order Tracking languages.
+[use](http://yithemes.com/contact/ "Your Inspiration Themes") so we can bundle it into WooCommerce Shipment Tracking languages.
 
 == Upgrade notice ==
 

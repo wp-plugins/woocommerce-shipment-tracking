@@ -1,15 +1,15 @@
 <?php
 /*
-Plugin Name: YITH WooCommerce Order Tracking
+Plugin Name: WooCommerce Shipment Tracking
 Plugin URI: http://yithemes.com/themes/plugins/yith-woocommerce-order-tracking/
 Description: Easy managing order tracking information for WooCommerce orders. Set the carrier and the tracking code and your customers will get notified about their shipping.
-Author: Yithemes
+Author: Woocommerce Plugin
 Text Domain: ywot
 Version: 1.0.2
 Author URI: http://yithemes.com/
 
 @author Yithemes
-@package YITH WooCommerce Order Tracking
+@package WooCommerce Shipment Tracking
 @version 1.0.2
 */
 
@@ -33,14 +33,14 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 } // Exit if accessed directly
 
-if ( ! function_exists( 'is_plugin_active' ) ) {
-	require_once( ABSPATH . 'wp-admin/includes/plugin.php' );
+if ( ! function_exists( 'is_plugin_active' ) ) 
+{	require_once( ABSPATH . 'wp-admin/includes/plugin.php' );
 }
 
 function yith_ywot_install_woocommerce_admin_notice() {
 	?>
 	<div class="error">
-		<p><?php _e( 'YITH WooCommerce Order Tracking is enabled but not effective. It requires Woocommerce in order to work.', 'yit' ); ?></p>
+		<p><?php _e( 'WooCommerce Shipment Tracking is enabled but not effective. It requires Woocommerce in order to work.', 'yit' ); ?></p>
 	</div>
 <?php
 }
@@ -48,7 +48,7 @@ function yith_ywot_install_woocommerce_admin_notice() {
 function yith_ywot_install_free_admin_notice() {
 	?>
 	<div class="error">
-		<p><?php _e( 'You can\'t activate the free version of YITH WooCommerce Order Tracking while you are using the premium one.', 'yit' ); ?></p>
+		<p><?php _e( 'You can\'t activate the free version of WooCommerce Shipment Tracking while you are using the premium one.', 'yit' ); ?></p>
 	</div>
 <?php
 }
