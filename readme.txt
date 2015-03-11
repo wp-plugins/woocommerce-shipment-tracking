@@ -23,7 +23,7 @@ WooCommerce Shipment Tracking will add a new tab called "Order Tracking". There 
 
 = Installation =
 
-Important: before of all, you have to download and activate WooCommerce plugin, which is mandatory for Yith WooCommerce Order Tracking to be working. If WooCommerce plugin is active, you just need to activate the Yith WooCommerce Order Tracking plugin.
+Important: before of all, you have to download and activate WooCommerce plugin, which is mandatory for WooCommerce Shipment Tracking to be working. If WooCommerce plugin is active, you just need to activate the WooCommerce Shipment Tracking plugin.
 
 == Installation ==
 
@@ -71,7 +71,7 @@ If you have suggestions about how to improve WooCommerce Shipment Tracking, you 
 = Available Languages =
 * English
 
-If you have created your own language pack, or have an update for an existing one, you can send [gettext PO and MO file](http://codex.wordpress.org/Translating_WordPress/ "Translating WordPress")
+If you have created your own language pack, or have an update for an existing one, you can send [gettext PO and MO file](http://codex.wordpress.org/Translating_WordPress "Translating WordPress")
 [use](http://yithemes.com/contact/ "Your Inspiration Themes") so we can bundle it into WooCommerce Shipment Tracking languages.
 
 == Upgrade notice ==
